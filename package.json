@@ -1,7 +1,6 @@
 {
   "name": "discord-boy",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +10,17 @@
   "dependencies": {
     "discord": "^0.8.2",
     "discord.js": "^14.11.0",
-    "dotenv": "^16.1.4"
-  }
+    "dotenv": "^16.1.4",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavkumar-07-blast/discord-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibhavkumar-07-blast/discord-bot/issues"
+  },
+  "homepage": "https://github.com/vaibhavkumar-07-blast/discord-bot#readme",
+  "devDependencies": {},
+  "description": ""
 }
